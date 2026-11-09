@@ -1,0 +1,6 @@
+Model,Accuracy,Macro F1,Weighted F1,High Urgency Recall
+Majority Baseline,0.4195,0.197,0.2479,0.0
+TF-IDF + LinearSVC,0.9025,0.8876,0.9016,0.7907
+XGBoost (Structured),0.7881,0.7733,0.7889,0.7674
+XLM-RoBERTa,0.8856,0.8817,0.8858,0.907
+Ensemble (XLM-R 0.70 + XGB 0.30),0.8856,0.882,0.886,0.907

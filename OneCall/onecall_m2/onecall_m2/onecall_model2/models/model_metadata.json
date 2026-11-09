@@ -1,0 +1,12 @@
+{
+  "model_name": "Model B: Linear SVM",
+  "representation": "TF-IDF (Calibrated Platt Scaling)",
+  "primary_metric": "Macro F1",
+  "macro_f1": 0.6288,
+  "accuracy": 0.7931,
+  "macro_precision": 0.6061,
+  "macro_recall": 0.6818,
+  "weighted_f1": 0.7529,
+  "num_classes": 21,
+  "model_type": "sklearn"
+}
