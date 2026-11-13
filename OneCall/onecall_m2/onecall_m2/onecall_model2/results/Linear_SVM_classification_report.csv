@@ -1,0 +1,25 @@
+class_or_metric,precision,recall,f1-score,support
+Autopsy,1.0,1.0,1.0,1.0
+Cardiovascular / Pulmonary,1.0,1.0,1.0,2.0
+Chiropractic,0.0,0.0,0.0,1.0
+Consult - History and Phy.,0.0,0.0,0.0,1.0
+Discharge Summary,1.0,1.0,1.0,1.0
+ENT - Otolaryngology,1.0,1.0,1.0,1.0
+Emergency Room Reports,0.0,0.0,0.0,1.0
+General Medicine,0.5,1.0,0.6666666666666666,1.0
+Hospice - Palliative Care,1.0,1.0,1.0,1.0
+Nephrology,1.0,1.0,1.0,1.0
+Neurology,0.0,0.0,0.0,1.0
+Obstetrics / Gynecology,0.0,0.0,0.0,1.0
+Ophthalmology,1.0,1.0,1.0,1.0
+Orthopedic,1.0,1.0,1.0,1.0
+Pain Management,1.0,1.0,1.0,4.0
+Podiatry,1.0,1.0,1.0,1.0
+Psychiatry / Psychology,0.3333333333333333,1.0,0.5,1.0
+Radiology,0.5,1.0,0.6666666666666666,1.0
+SOAP / Chart / Progress Notes,0.0,0.0,0.0,1.0
+Sleep Medicine,1.0,1.0,1.0,1.0
+Surgery,1.0,1.0,1.0,5.0
+micro avg,0.8214285714285714,0.7931034482758621,0.8070175438596491,29.0
+macro avg,0.634920634920635,0.7142857142857143,0.6587301587301587,29.0
+weighted avg,0.7356321839080461,0.7931034482758621,0.7528735632183907,29.0

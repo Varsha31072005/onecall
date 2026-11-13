@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55101647288",
+    "project_id": "callone-583e5",
+    "storage_bucket": "callone-583e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55101647288:android:eb03785b0b3d821635874d",
+        "android_client_info": {
+          "package_name": "com.example.callone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWT5mJUCZKeuglYeiK0zw3ffi_eDnpo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55101647288:android:9522a3cf257abd5935874d",
+        "android_client_info": {
+          "package_name": "com.example.onecall_doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWT5mJUCZKeuglYeiK0zw3ffi_eDnpo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+index,precision,recall,f1-score,support
+Autopsy,0.0,0.0,0.0,1.0
+Bariatrics,0.0,0.0,0.0,0.0
+Cardiovascular / Pulmonary,0.0,0.0,0.0,2.0
+Chiropractic,0.0,0.0,0.0,1.0
+Consult - History and Phy.,0.0,0.0,0.0,1.0
+Dermatology,0.0,0.0,0.0,0.0
+Discharge Summary,0.0,0.0,0.0,1.0
+ENT - Otolaryngology,0.0,0.0,0.0,1.0
+Emergency Room Reports,0.0,0.0,0.0,1.0
+Gastroenterology,0.0,0.0,0.0,0.0
+General Medicine,0.0,0.0,0.0,1.0
+Hematology - Oncology,0.0,0.0,0.0,0.0
+Hospice - Palliative Care,0.0,0.0,0.0,1.0
+Lab Medicine - Pathology,0.0,0.0,0.0,0.0
+Letters,0.0,0.0,0.0,0.0
+Nephrology,0.0,0.0,0.0,1.0
+Neurology,0.0,0.0,0.0,1.0
+Obstetrics / Gynecology,0.0,0.0,0.0,1.0
+Ophthalmology,0.0,0.0,0.0,1.0
+Orthopedic,0.0,0.0,0.0,1.0
+Pain Management,0.0,0.0,0.0,4.0
+Pediatrics - Neonatal,0.0,0.0,0.0,0.0
+Podiatry,0.0,0.0,0.0,1.0
+Psychiatry / Psychology,0.0,0.0,0.0,1.0
+Radiology,0.09090909090909091,1.0,0.16666666666666666,1.0
+Rheumatology,0.0,0.0,0.0,0.0
+SOAP / Chart / Progress Notes,0.0,0.0,0.0,1.0
+Sleep Medicine,0.3333333333333333,1.0,0.5,1.0
+Surgery,0.0,0.0,0.0,5.0
+accuracy,0.06896551724137931,0.06896551724137931,0.06896551724137931,0.06896551724137931
+macro avg,0.014629049111807731,0.06896551724137931,0.022988505747126436,29.0
+weighted avg,0.014629049111807731,0.06896551724137931,0.022988505747126436,29.0

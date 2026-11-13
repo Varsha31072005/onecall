@@ -1,0 +1,2075 @@
+﻿[ +535 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +197 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +69 ms] executing: C:\Users\Anirudh\AppData\Local\Android\sdk\platform-tools\adb.exe devices -l
+[  +78 ms] List of devices attached
+           LVYTLV95Z579ZH6D       device product:RMX3741 model:RMX3741 device:RE58B6L1 transport_id:3
+[   +5 ms] C:\Users\Anirudh\AppData\Local\Android\sdk\platform-tools\adb.exe -s LVYTLV95Z579ZH6D shell getprop
+[ +139 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[   +6 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +128 ms] Skipping pub get: version match.
+[ +226 ms] Found plugin zego_uikit_prebuilt_call at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_prebuilt_call-4.22.2\
+[   +7 ms] Found plugin zego_uikit_signaling_plugin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_signaling_plugin-2.8.20\
+[   +2 ms] Found plugin zego_zpns at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zpns-2.8.0\
+[   +6 ms] Found plugin zego_zim at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zim-2.26.0\
+[   +6 ms] Found plugin flutter_logs_yoer at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_logs_yoer-2.2.1\
+[   +3 ms] Found plugin zego_callkit at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_callkit-1.0.0+6\
+[   +6 ms] Found plugin shared_preferences at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.4\
+[   +2 ms] Found plugin shared_preferences_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +4 ms] Found plugin path_provider_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +7 ms] Found plugin shared_preferences_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +2 ms] Found plugin shared_preferences_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +3 ms] Found plugin path_provider_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +4 ms] Found plugin shared_preferences_foundation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.18\
+[   +2 ms] Found plugin zego_uikit at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit-2.28.41\
+[   +3 ms] Found plugin zego_express_engine at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_express_engine-3.23.0\
+[   +3 ms] Found plugin wakelock_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.3.3\
+[  +13 ms] Found plugin package_info_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.3.1\
+[  +18 ms] Found plugin share_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-12.0.1\
+[   +2 ms] Found plugin url_launcher_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +4 ms] Found plugin url_launcher_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.1\
+[   +2 ms] Found plugin url_launcher_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +4 ms] Found plugin path_provider at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.5.1\
+[   +3 ms] Found plugin path_provider_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.22\
+[   +5 ms] Found plugin permission_handler at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-12.0.1\
+[   +2 ms] Found plugin permission_handler_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +6 ms] Found plugin permission_handler_html at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +3 ms] Found plugin permission_handler_apple at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +2 ms] Found plugin permission_handler_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-13.0.1\
+[   +2 ms] Found plugin native_device_orientation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\native_device_orientation-2.1.0\
+[   +3 ms] Found plugin file_picker at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-10.3.8\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[   +9 ms] Found plugin device_info_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[   +6 ms] Found plugin connectivity_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-6.1.5\
+[  +12 ms] Found plugin sqflite at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[   +8 ms] Found plugin sqflite_darwin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +3 ms] Found plugin sqflite_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+2\
+[  +18 ms] Found plugin vibration at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-3.1.5\
+[   +9 ms] Found plugin screen_brightness at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness-0.2.2+1\
+[   +3 ms] Found plugin screen_brightness_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_windows-0.1.3\
+[   +6 ms] Found plugin screen_brightness_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_macos-0.1.0+1\
+[   +2 ms] Found plugin screen_brightness_ios at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_ios-0.1.0\
+[   +3 ms] Found plugin screen_brightness_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_android-0.1.0+2\
+[   +3 ms] Found plugin proximity_sensor at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\proximity_sensor-1.3.9\
+[   +4 ms] Found plugin just_audio at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.10.5\
+[   +4 ms] Found plugin just_audio_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio_web-0.4.16\
+[   +6 ms] Found plugin audio_session at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.2.2\
+[   +4 ms] Found plugin flutter_volume_controller at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_volume_controller-1.3.4\
+[   +4 ms] Found plugin flutter_ringtone_player at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ringtone_player-4.0.0+4\
+[   +4 ms] Found plugin flutter_callkit_incoming at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_callkit_incoming-2.5.8\
+[   +3 ms] Found plugin floating at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\floating-6.0.0\
+[   +2 ms] Found plugin audioplayers at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-6.5.1\
+[   +3 ms] Found plugin audioplayers_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_windows-4.2.1\
+[   +7 ms] Found plugin audioplayers_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_web-5.1.1\
+[   +5 ms] Found plugin audioplayers_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_linux-4.2.1\
+[   +3 ms] Found plugin audioplayers_darwin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_darwin-6.3.0\
+[   +3 ms] Found plugin audioplayers_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.2.1\
+[   +5 ms] Found plugin image_picker at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.1\
+[   +3 ms] Found plugin image_picker_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +4 ms] Found plugin file_selector_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +3 ms] Found plugin image_picker_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +1 ms] Found plugin file_selector_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +2 ms] Found plugin file_selector_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+3\
+[   +3 ms] Found plugin image_picker_for_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +4 ms] Found plugin image_picker_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+12\
+[   +5 ms] Found plugin flutter_local_notifications at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-19.5.0\
+[   +4 ms] Found plugin flutter_local_notifications_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_windows-1.0.3\
+[   +8 ms] Found plugin flutter_local_notifications_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-6.0.0\
+[   +2 ms] Found plugin firebase_storage at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-13.0.6\
+[   +2 ms] Found plugin firebase_storage_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.11.2\
+[   +4 ms] Found plugin firebase_core at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.4.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.4.0\
+[   +6 ms] Found plugin firebase_auth at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.1.4\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.1.2\
+[   +4 ms] Found plugin cloud_firestore at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.1.2\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.1.2\
+[ +186 ms] Found plugin zego_uikit_prebuilt_call at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_prebuilt_call-4.22.2\
+[   +1 ms] Found plugin zego_uikit_signaling_plugin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_signaling_plugin-2.8.20\
+[   +1 ms] Found plugin zego_zpns at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zpns-2.8.0\
+[   +3 ms] Found plugin zego_zim at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zim-2.26.0\
+[   +3 ms] Found plugin flutter_logs_yoer at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_logs_yoer-2.2.1\
+[   +3 ms] Found plugin zego_callkit at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_callkit-1.0.0+6\
+[   +3 ms] Found plugin shared_preferences at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.4\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +3 ms] Found plugin path_provider_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +4 ms] Found plugin shared_preferences_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +1 ms] Found plugin shared_preferences_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +1 ms] Found plugin path_provider_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +2 ms] Found plugin shared_preferences_foundation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +1 ms] Found plugin shared_preferences_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.18\
+[   +1 ms] Found plugin zego_uikit at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit-2.28.41\
+[   +1 ms] Found plugin zego_express_engine at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_express_engine-3.23.0\
+[   +1 ms] Found plugin wakelock_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.3.3\
+[   +4 ms] Found plugin package_info_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.3.1\
+[   +8 ms] Found plugin share_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-12.0.1\
+[   +1 ms] Found plugin url_launcher_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +3 ms] Found plugin url_launcher_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.1\
+[   +2 ms] Found plugin url_launcher_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +2 ms] Found plugin path_provider at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +1 ms] Found plugin path_provider_foundation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.5.1\
+[   +1 ms] Found plugin path_provider_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.22\
+[   +2 ms] Found plugin permission_handler at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-12.0.1\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +2 ms] Found plugin permission_handler_html at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +3 ms] Found plugin permission_handler_apple at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +2 ms] Found plugin permission_handler_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-13.0.1\
+[   +1 ms] Found plugin native_device_orientation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\native_device_orientation-2.1.0\
+[   +2 ms] Found plugin file_picker at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-10.3.8\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[   +6 ms] Found plugin device_info_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[   +4 ms] Found plugin connectivity_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-6.1.5\
+[   +8 ms] Found plugin sqflite at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[   +7 ms] Found plugin sqflite_darwin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +1 ms] Found plugin sqflite_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+2\
+[   +8 ms] Found plugin vibration at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-3.1.5\
+[   +9 ms] Found plugin screen_brightness at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness-0.2.2+1\
+[   +3 ms] Found plugin screen_brightness_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_windows-0.1.3\
+[   +4 ms] Found plugin screen_brightness_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_macos-0.1.0+1\
+[   +2 ms] Found plugin screen_brightness_ios at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_ios-0.1.0\
+[   +4 ms] Found plugin screen_brightness_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_android-0.1.0+2\
+[   +3 ms] Found plugin proximity_sensor at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\proximity_sensor-1.3.9\
+[   +3 ms] Found plugin just_audio at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.10.5\
+[   +3 ms] Found plugin just_audio_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio_web-0.4.16\
+[   +6 ms] Found plugin audio_session at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.2.2\
+[   +3 ms] Found plugin flutter_volume_controller at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_volume_controller-1.3.4\
+[   +3 ms] Found plugin flutter_ringtone_player at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ringtone_player-4.0.0+4\
+[   +3 ms] Found plugin flutter_callkit_incoming at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_callkit_incoming-2.5.8\
+[   +2 ms] Found plugin floating at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\floating-6.0.0\
+[   +1 ms] Found plugin audioplayers at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-6.5.1\
+[   +1 ms] Found plugin audioplayers_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_windows-4.2.1\
+[   +3 ms] Found plugin audioplayers_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_web-5.1.1\
+[   +1 ms] Found plugin audioplayers_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_linux-4.2.1\
+[   +2 ms] Found plugin audioplayers_darwin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_darwin-6.3.0\
+[   +2 ms] Found plugin audioplayers_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.2.1\
+[   +5 ms] Found plugin image_picker at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.1\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +3 ms] Found plugin file_selector_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +5 ms] Found plugin image_picker_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +2 ms] Found plugin file_selector_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +2 ms] Found plugin file_selector_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +1 ms] Found plugin image_picker_ios at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+3\
+[   +2 ms] Found plugin image_picker_for_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +1 ms] Found plugin image_picker_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+12\
+[   +3 ms] Found plugin flutter_local_notifications at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-19.5.0\
+[   +3 ms] Found plugin flutter_local_notifications_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_windows-1.0.3\
+[   +3 ms] Found plugin flutter_local_notifications_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-6.0.0\
+[   +1 ms] Found plugin firebase_storage at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-13.0.6\
+[   +2 ms] Found plugin firebase_storage_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.11.2\
+[   +3 ms] Found plugin firebase_core at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.4.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.4.0\
+[   +6 ms] Found plugin firebase_auth at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.1.4\
+[   +2 ms] Found plugin firebase_auth_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.1.2\
+[   +7 ms] Found plugin cloud_firestore at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.1.2\
+[   +2 ms] Found plugin cloud_firestore_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.1.2\
+[  +16 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[ +238 ms] Found plugin zego_uikit_prebuilt_call at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_prebuilt_call-4.22.2\
+[   +3 ms] Found plugin zego_uikit_signaling_plugin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_signaling_plugin-2.8.20\
+[   +3 ms] Found plugin zego_zpns at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zpns-2.8.0\
+[   +7 ms] Found plugin zego_zim at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zim-2.26.0\
+[   +4 ms] Found plugin flutter_logs_yoer at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_logs_yoer-2.2.1\
+[   +3 ms] Found plugin zego_callkit at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_callkit-1.0.0+6\
+[   +5 ms] Found plugin shared_preferences at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.4\
+[   +2 ms] Found plugin shared_preferences_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +4 ms] Found plugin path_provider_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +5 ms] Found plugin shared_preferences_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +2 ms] Found plugin shared_preferences_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +2 ms] Found plugin path_provider_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +4 ms] Found plugin shared_preferences_foundation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.18\
+[   +2 ms] Found plugin zego_uikit at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit-2.28.41\
+[   +2 ms] Found plugin zego_express_engine at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_express_engine-3.23.0\
+[   +2 ms] Found plugin wakelock_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.3.3\
+[   +5 ms] Found plugin package_info_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.3.1\
+[   +9 ms] Found plugin share_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-12.0.1\
+[   +1 ms] Found plugin url_launcher_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +3 ms] Found plugin url_launcher_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.1\
+[   +1 ms] Found plugin url_launcher_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +4 ms] Found plugin path_provider at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +1 ms] Found plugin path_provider_foundation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.5.1\
+[   +1 ms] Found plugin path_provider_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.22\
+[   +3 ms] Found plugin permission_handler at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-12.0.1\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +2 ms] Found plugin permission_handler_html at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +1 ms] Found plugin permission_handler_apple at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +2 ms] Found plugin permission_handler_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-13.0.1\
+[   +1 ms] Found plugin native_device_orientation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\native_device_orientation-2.1.0\
+[   +2 ms] Found plugin file_picker at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-10.3.8\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[   +7 ms] Found plugin device_info_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[   +6 ms] Found plugin connectivity_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-6.1.5\
+[  +11 ms] Found plugin sqflite at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[   +7 ms] Found plugin sqflite_darwin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +2 ms] Found plugin sqflite_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+2\
+[   +9 ms] Found plugin vibration at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-3.1.5\
+[   +5 ms] Found plugin screen_brightness at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness-0.2.2+1\
+[   +1 ms] Found plugin screen_brightness_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_windows-0.1.3\
+[   +3 ms] Found plugin screen_brightness_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_macos-0.1.0+1\
+[   +1 ms] Found plugin screen_brightness_ios at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_ios-0.1.0\
+[   +1 ms] Found plugin screen_brightness_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_android-0.1.0+2\
+[   +1 ms] Found plugin proximity_sensor at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\proximity_sensor-1.3.9\
+[   +2 ms] Found plugin just_audio at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.10.5\
+[   +1 ms] Found plugin just_audio_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio_web-0.4.16\
+[   +4 ms] Found plugin audio_session at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.2.2\
+[   +2 ms] Found plugin flutter_volume_controller at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_volume_controller-1.3.4\
+[   +2 ms] Found plugin flutter_ringtone_player at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ringtone_player-4.0.0+4\
+[   +2 ms] Found plugin flutter_callkit_incoming at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_callkit_incoming-2.5.8\
+[   +2 ms] Found plugin floating at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\floating-6.0.0\
+[   +2 ms] Found plugin audioplayers at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-6.5.1\
+[   +2 ms] Found plugin audioplayers_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_windows-4.2.1\
+[   +4 ms] Found plugin audioplayers_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_web-5.1.1\
+[   +1 ms] Found plugin audioplayers_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_linux-4.2.1\
+[   +1 ms] Found plugin audioplayers_darwin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_darwin-6.3.0\
+[   +1 ms] Found plugin audioplayers_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.2.1\
+[   +5 ms] Found plugin image_picker at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.1\
+[   +1 ms] Found plugin image_picker_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +3 ms] Found plugin file_selector_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +3 ms] Found plugin image_picker_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +2 ms] Found plugin file_selector_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +1 ms] Found plugin file_selector_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +1 ms] Found plugin image_picker_ios at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+3\
+[   +1 ms] Found plugin image_picker_for_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +2 ms] Found plugin image_picker_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+12\
+[   +3 ms] Found plugin flutter_local_notifications at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-19.5.0\
+[   +3 ms] Found plugin flutter_local_notifications_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_windows-1.0.3\
+[   +3 ms] Found plugin flutter_local_notifications_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-6.0.0\
+[   +1 ms] Found plugin firebase_storage at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-13.0.6\
+[   +1 ms] Found plugin firebase_storage_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.11.2\
+[   +2 ms] Found plugin firebase_core at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.4.0\
+[   +3 ms] Found plugin firebase_core_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.4.0\
+[   +4 ms] Found plugin firebase_auth at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.1.4\
+[   +2 ms] Found plugin firebase_auth_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.1.2\
+[   +5 ms] Found plugin cloud_firestore at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.1.2\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.1.2\
+[  +23 ms] Generating C:\Users\Anirudh\Desktop\onecall_doctor\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +3 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[  +12 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +5 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +4 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +5 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +2 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +7 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +3 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +3 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[ +104 ms] ro.hardware = mt6877
+[        ] ro.build.characteristics = default
+[ +198 ms] Initializing file store
+[  +26 ms] Skipping target: gen_localizations
+[   +5 ms] gen_dart_plugin_registrant: Starting due to {InvalidatedReasonKind.inputChanged: The following inputs have updated contents: C:\Users\Anirudh\Desktop\onecall_doctor\.dart_tool\package_config.json,C:\Users\Anirudh\Desktop\onecall_doctor\.dart_tool\flutter_build\dart_plugin_registrant.dart}
+[ +364 ms] Found plugin zego_uikit_prebuilt_call at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_prebuilt_call-4.22.2\
+[   +2 ms] Found plugin zego_uikit_signaling_plugin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_signaling_plugin-2.8.20\
+[   +2 ms] Found plugin zego_zpns at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zpns-2.8.0\
+[   +6 ms] Found plugin zego_zim at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zim-2.26.0\
+[  +61 ms] Found plugin flutter_logs_yoer at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_logs_yoer-2.2.1\
+[   +3 ms] Found plugin zego_callkit at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_callkit-1.0.0+6\
+[   +6 ms] Found plugin shared_preferences at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.4\
+[   +3 ms] Found plugin shared_preferences_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +5 ms] Found plugin path_provider_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +6 ms] Found plugin shared_preferences_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +2 ms] Found plugin shared_preferences_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +2 ms] Found plugin path_provider_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +3 ms] Found plugin shared_preferences_foundation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.18\
+[   +2 ms] Found plugin zego_uikit at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit-2.28.41\
+[   +2 ms] Found plugin zego_express_engine at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_express_engine-3.23.0\
+[   +3 ms] Found plugin wakelock_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.3.3\
+[   +6 ms] Found plugin package_info_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.3.1\
+[  +12 ms] Found plugin share_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-12.0.1\
+[   +2 ms] Found plugin url_launcher_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +4 ms] Found plugin url_launcher_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.1\
+[   +2 ms] Found plugin url_launcher_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +4 ms] Found plugin path_provider at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.5.1\
+[   +2 ms] Found plugin path_provider_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.22\
+[   +4 ms] Found plugin permission_handler at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-12.0.1\
+[   +2 ms] Found plugin permission_handler_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +4 ms] Found plugin permission_handler_html at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +2 ms] Found plugin permission_handler_apple at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +2 ms] Found plugin permission_handler_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-13.0.1\
+[   +2 ms] Found plugin native_device_orientation at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\native_device_orientation-2.1.0\
+[   +2 ms] Found plugin file_picker at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-10.3.8\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[   +8 ms] Found plugin device_info_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\
+[   +6 ms] Found plugin connectivity_plus at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-6.1.5\
+[  +12 ms] Found plugin sqflite at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[  +30 ms] Found plugin sqflite_darwin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +2 ms] Found plugin sqflite_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+2\
+[  +12 ms] Found plugin vibration at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-3.1.5\
+[   +8 ms] Found plugin screen_brightness at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness-0.2.2+1\
+[   +3 ms] Found plugin screen_brightness_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_windows-0.1.3\
+[   +4 ms] Found plugin screen_brightness_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_macos-0.1.0+1\
+[   +2 ms] Found plugin screen_brightness_ios at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_ios-0.1.0\
+[   +2 ms] Found plugin screen_brightness_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_android-0.1.0+2\
+[   +2 ms] Found plugin proximity_sensor at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\proximity_sensor-1.3.9\
+[   +2 ms] Found plugin just_audio at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.10.5\
+[   +2 ms] Found plugin just_audio_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio_web-0.4.16\
+[   +3 ms] Found plugin audio_session at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.2.2\
+[   +2 ms] Found plugin flutter_volume_controller at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_volume_controller-1.3.4\
+[   +2 ms] Found plugin flutter_ringtone_player at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ringtone_player-4.0.0+4\
+[   +2 ms] Found plugin flutter_callkit_incoming at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_callkit_incoming-2.5.8\
+[   +2 ms] Found plugin floating at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\floating-6.0.0\
+[   +2 ms] Found plugin audioplayers at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-6.5.1\
+[   +3 ms] Found plugin audioplayers_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_windows-4.2.1\
+[   +4 ms] Found plugin audioplayers_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_web-5.1.1\
+[   +2 ms] Found plugin audioplayers_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_linux-4.2.1\
+[   +2 ms] Found plugin audioplayers_darwin at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_darwin-6.3.0\
+[   +2 ms] Found plugin audioplayers_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.2.1\
+[   +6 ms] Found plugin image_picker at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.1\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +4 ms] Found plugin file_selector_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +4 ms] Found plugin image_picker_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +2 ms] Found plugin file_selector_macos at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +2 ms] Found plugin file_selector_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+3\
+[   +2 ms] Found plugin image_picker_for_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +2 ms] Found plugin image_picker_android at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+12\
+[   +5 ms] Found plugin flutter_local_notifications at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-19.5.0\
+[   +3 ms] Found plugin flutter_local_notifications_windows at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_windows-1.0.3\
+[   +4 ms] Found plugin flutter_local_notifications_linux at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-6.0.0\
+[   +2 ms] Found plugin firebase_storage at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-13.0.6\
+[   +3 ms] Found plugin firebase_storage_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.11.2\
+[   +4 ms] Found plugin firebase_core at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.4.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.4.0\
+[   +6 ms] Found plugin firebase_auth at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.1.4\
+[   +2 ms] Found plugin firebase_auth_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.1.2\
+[   +5 ms] Found plugin cloud_firestore at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.1.2\
+[   +2 ms] Found plugin cloud_firestore_web at C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.1.2\
+[  +17 ms] Skipping generating dart_plugin_registrant.dart because it is up-to-date.
+[        ] gen_dart_plugin_registrant: Complete
+[   +4 ms] Skipping target: _composite
+[   +2 ms] complete
+[  +10 ms] Launching lib\main.dart on RMX3741 in debug mode...
+[   +7 ms] C:\flutter\bin\cache\dart-sdk\bin\dartaotruntime.exe C:\flutter\bin\cache\dart-sdk\bin\snapshots\frontend_server_aot.dart.snapshot --sdk-root C:\flutter\bin\cache\artifacts\engine\common\flutter_patched_sdk/ --incremental --target=flutter --experimental-emit-debug-metadata -DFLUTTER_VERSION=3.35.4 -DFLUTTER_CHANNEL=stable -DFLUTTER_GIT_URL=https://github.com/flutter/flutter.git -DFLUTTER_FRAMEWORK_REVISION=d693b4b9db -DFLUTTER_ENGINE_REVISION=c298091351 -DFLUTTER_DART_VERSION=3.9.2 --output-dill C:\Users\Anirudh\AppData\Local\Temp\flutter_tools.b452f2a2\flutter_tool.d15e0cf9\app.dill --packages C:\Users\Anirudh\Desktop\onecall_doctor\.dart_tool\package_config.json -Ddart.vm.profile=false -Ddart.vm.product=false --enable-asserts --track-widget-creation --filesystem-scheme org-dartlang-root --initialize-from-dill build\7e4aebe516b998635f34742713e086a8.cache.dill.track.dill --source file:///C:/Users/Anirudh/Desktop/onecall_doctor/.dart_tool/flutter_build/dart_plugin_registrant.dart --source package:flutter/src/dart_plugin_registrant.dart -Dflutter.dart_plugin_registrant=file:///C:/Users/Anirudh/Desktop/onecall_doctor/.dart_tool/flutter_build/dart_plugin_registrant.dart --verbosity=error --enable-experiment=alternative-invalidation-strategy
+[  +32 ms] executing: C:\Users\Anirudh\AppData\Local\Android\sdk\platform-tools\adb.exe -s LVYTLV95Z579ZH6D shell -x logcat -v time -t 1
+[  +22 ms] <- compile package:onecall_doctor/main.dart
+[ +215 ms] --------- beginning of main
+           01-23 09:41:17.634 I/OriginChannel( 1357): wise light debug, data[3].type is 65627,data[3].sensor is 91:[267.000000,,140.000000,,64.000000,0.000000,3280174092784713]
+[  +16 ms] executing: C:\Users\Anirudh\AppData\Local\Android\sdk\platform-tools\adb.exe version
+[  +78 ms] Android Debug Bridge version 1.0.41
+           Version 36.0.0-13206524
+           Installed as C:\Users\Anirudh\AppData\Local\Android\sdk\platform-tools\adb.exe
+           Running on Windows 10.0.26200
+[   +4 ms] executing: C:\Users\Anirudh\AppData\Local\Android\sdk\platform-tools\adb.exe start-server
+[  +75 ms] Building APK
+[  +23 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[ +212 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[        ] openjdk version "21.0.7" 2025-04-15
+           OpenJDK Runtime Environment (build 21.0.7+-13880790-b1038.58)
+           OpenJDK 64-Bit Server VM (build 21.0.7+-13880790-b1038.58, mixed mode)
+[  +12 ms] Top-level Gradle build file not found, skipping migration of task "clean".
+[   +3 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[ +196 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[        ] openjdk 21.0.7 2025-04-15
+           OpenJDK Runtime Environment (build 21.0.7+-13880790-b1038.58)
+           OpenJDK 64-Bit Server VM (build 21.0.7+-13880790-b1038.58, mixed mode)
+[   +4 ms] Version of Java is different than impacted version, no migration attempted.
+[  +32 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[  +11 ms] Using gradle from C:\Users\Anirudh\Desktop\onecall_doctor\android\gradlew.bat.
+[ +103 ms] LocalFile: 'C:\Users\Anirudh\Desktop\onecall_doctor\android\build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[  +20 ms] LocalFile: 'C:\Users\Anirudh\Desktop\onecall_doctor\android\settings.gradle.kts' provides AGP version: 8.9.1
+[  +38 ms] Running Gradle task 'assembleDebug'...
+[   +3 ms] executing: [C:\Users\Anirudh\Desktop\onecall_doctor\android/] C:\Users\Anirudh\Desktop\onecall_doctor\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm64 -Ptarget=C:\Users\Anirudh\Desktop\onecall_doctor\lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuMzUuNA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZDY5M2I0YjlkYg==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049YzI5ODA5MTM1MQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My45LjI= -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false -Pfilesystem-scheme=org-dartlang-root assembleDebug
+[+1353 ms] Initialized native services in: C:\Users\Anirudh\.gradle\native
+[        ] Initialized jansi services in: C:\Users\Anirudh\.gradle\native
+[ +613 ms] Found daemon DaemonInfo{pid=13932, address=[fd8826f6-1ed7-4564-8402-6176f19f70e8 port:64582, addresses:[/127.0.0.1]], state=Idle, lastBusy=1769136018584, context=DefaultDaemonContext[uid=ab98730a-8456-4626-96d6-3ebed82c1940,javaHome=C:\Program Files\Java\jdk-23,javaVersion=23,javaVendor=Oracle Corporation,daemonRegistryDir=C:\Users\Anirudh\.gradle\daemon,pid=13932,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-XX:MaxMetaspaceSize=4G,-XX:ReservedCodeCacheSize=512m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx8G,-Dfile.encoding=UTF-8,-Duser.country=IN,-Duser.language=en,-Duser.variant]} however its context does not match the desired criteria.
+[        ] JVM is incompatible.
+[        ] Wanted: DaemonRequestContext{jvmCriteria=C:\Program Files\Android\Android Studio\jbr (no JDK specified, using current Java home), daemonOpts=[-XX:MaxMetaspaceSize=4G, -XX:ReservedCodeCacheSize=512m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx8G, -Dfile.encoding=UTF-8, -Duser.country=IN, -Duser.language=en, -Duser.variant], applyInstrumentationAgent=true, nativeServicesMode=ENABLED, priority=NORMAL}
+[        ] Actual: DefaultDaemonContext[uid=ab98730a-8456-4626-96d6-3ebed82c1940,javaHome=C:\Program Files\Java\jdk-23,javaVersion=23,javaVendor=Oracle Corporation,daemonRegistryDir=C:\Users\Anirudh\.gradle\daemon,pid=13932,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-XX:MaxMetaspaceSize=4G,-XX:ReservedCodeCacheSize=512m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx8G,-Dfile.encoding=UTF-8,-Duser.country=IN,-Duser.language=en,-Duser.variant]
+[   +1 ms]   Looking for a different daemon...
+[ +105 ms] The client will now receive all logging from the daemon (pid: 5916). The daemon log file: C:\Users\Anirudh\.gradle\daemon\8.12\daemon-5916.out.log
+[        ] Starting 5th build in daemon [uptime: 18 mins 17.089 secs, performance: 99%, GC rate: 0.00/s, heap usage: 0% of 8 GiB, non-heap usage: 5% of 4 GiB]
+[        ] Using 12 worker leases.
+[        ] Now considering [C:\Users\Anirudh\Desktop\onecall_doctor\android, C:\flutter\packages\flutter_tools\gradle] as hierarchies to watch
+[        ] Watching the file system is configured to be enabled if available
+[  +97 ms] File system watching is active
+[        ] Starting Build
+[        ] Now considering [C:\flutter\packages\flutter_tools\gradle, C:\Users\Anirudh\Desktop\onecall_doctor\android] as hierarchies to watch
+[ +200 ms] > Configure project :gradle
+[        ] Evaluating project ':gradle' using build file 'C:\flutter\packages\flutter_tools\gradle\build.gradle.kts'.
+[        ] Resolved plugin [id: 'org.gradle.java-gradle-plugin']
+[        ] Resolved plugin [id: 'org.gradle.groovy']
+[        ] Resolved plugin [id: 'org.gradle.kotlin.kotlin-dsl', version: '5.1.2']
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '1.9.20']
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[        ] kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+[        ] kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+[        ] file or directory 'C:\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] Resolved plugin [id: 'dev.flutter.flutter-plugin-loader', version: '1.0.0']
+[  +84 ms] Resolved plugin [id: 'com.android.application', version: '8.9.1', apply: false]
+[        ] Resolved plugin [id: 'com.google.gms.google-services', version: '4.3.15', apply: false]
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.android', version: '2.1.0', apply: false]
+[        ] Resolve mutations for :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#727,included builds,5,main]) started.
+[        ] :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#727,included builds,5,main]) started.
+[        ] > Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':gradle:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[        ] Resolve mutations for :gradle:compileKotlin (Thread[#727,included builds,5,main]) started.
+[        ] :gradle:compileKotlin (Thread[#727,included builds,5,main]) started.
+[ +107 ms] > Task :gradle:compileKotlin UP-TO-DATE
+[        ] Caching disabled for task ':gradle:compileKotlin' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':gradle:compileKotlin' as it is up-to-date.
+[        ] Resolve mutations for :gradle:compileJava (Thread[#727,included builds,5,main]) started.
+[        ] :gradle:compileJava (Thread[#727,included builds,5,main]) started.
+[        ] > Task :gradle:compileJava NO-SOURCE
+[        ] Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:compileGroovy (Thread[#727,included builds,5,main]) started.
+[        ] :gradle:compileGroovy (Thread[#736,Execution worker Thread 9,5,main]) started.
+[        ] > Task :gradle:compileGroovy NO-SOURCE
+[        ] Skipping task ':gradle:compileGroovy' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:pluginDescriptors (Thread[#736,Execution worker Thread 9,5,main]) started.
+[  +85 ms] :gradle:pluginDescriptors (Thread[#736,Execution worker Thread 9,5,main]) started.
+[        ] > Task :gradle:pluginDescriptors UP-TO-DATE
+[        ] Caching disabled for task ':gradle:pluginDescriptors' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+[        ] Resolve mutations for :gradle:processResources (Thread[#736,Execution worker Thread 9,5,main]) started.
+[        ] :gradle:processResources (Thread[#736,Execution worker Thread 9,5,main]) started.
+[        ] > Task :gradle:processResources UP-TO-DATE
+[        ] Caching disabled for task ':gradle:processResources' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:processResources' as it is up-to-date.
+[        ] Resolve mutations for :gradle:classes (Thread[#736,Execution worker Thread 9,5,main]) started.
+[        ] :gradle:classes (Thread[#736,Execution worker Thread 9,5,main]) started.
+[        ] > Task :gradle:classes UP-TO-DATE
+[        ] Skipping task ':gradle:classes' as it has no actions.
+[        ] Resolve mutations for :gradle:jar (Thread[#736,Execution worker Thread 9,5,main]) started.
+[        ] :gradle:jar (Thread[#736,Execution worker Thread 9,5,main]) started.
+[        ] > Task :gradle:jar UP-TO-DATE
+[        ] Caching disabled for task ':gradle:jar' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:jar' as it is up-to-date.
+[ +305 ms] Settings evaluated using settings file 'C:\Users\Anirudh\Desktop\onecall_doctor\android\settings.gradle.kts'.
+[        ] Projects loaded. Root project using build file 'C:\Users\Anirudh\Desktop\onecall_doctor\android\build.gradle.kts'.
+[        ] Included projects: [root project 'android', project ':app', project ':audio_session', project ':audioplayers_android', project ':cloud_firestore', project ':connectivity_plus', project ':device_info_plus', project ':file_picker', project ':firebase_auth', project ':firebase_core', project ':firebase_storage', project ':floating', project ':flutter_callkit_incoming', project ':flutter_local_notifications', project ':flutter_logs_yoer', project ':flutter_plugin_android_lifecycle', project ':flutter_ringtone_player', project ':flutter_volume_controller', project ':image_picker_android', project ':just_audio', project ':native_device_orientation', project ':package_info_plus', project ':path_provider_android', project ':permission_handler_android', project ':proximity_sensor', project ':screen_brightness_android', project ':share_plus', project ':shared_preferences_android', project ':sqflite_android', project ':vibration', project ':wakelock_plus', project ':zego_express_engine', project ':zego_uikit', project ':zego_uikit_prebuilt_call', project ':zego_uikit_signaling_plugin', project ':zego_zim', project ':zego_zpns']
+[ +390 ms] > Configure project :app
+[   +1 ms] Evaluating project ':app' using build file 'C:\Users\Anirudh\Desktop\onecall_doctor\android\app\build.gradle.kts'.
+[        ] Resolved plugin [id: 'com.android.application']
+[        ] Resolved plugin [id: 'com.google.gms.google-services']
+[        ] Resolved plugin [id: 'kotlin-android']
+[        ] Resolved plugin [id: 'dev.flutter.flutter-gradle-plugin']
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[   +3 ms] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [27.0.12077973]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\Users\Anirudh\AppData\Local\Android\sdk
+[        ] > Configure project :
+[        ] Evaluating root project 'android' using build file 'C:\Users\Anirudh\Desktop\onecall_doctor\android\build.gradle.kts'.
+[ +272 ms] > Configure project :audio_session
+[        ] Evaluating project ':audio_session' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.2.2\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +408 ms] > Configure project :audioplayers_android
+[        ] Evaluating project ':audioplayers_android' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.2.1\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[  +90 ms] > Configure project :cloud_firestore
+[        ] Evaluating project ':cloud_firestore' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.1.2\android\build.gradle'.
+[        ] Using default execution profile
+[ +108 ms] > Configure project :connectivity_plus
+[   +1 ms] Evaluating project ':connectivity_plus' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-6.1.5\android\build.gradle'.
+[        ] Using default execution profile
+[ +199 ms] > Configure project :device_info_plus
+[        ] Evaluating project ':device_info_plus' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-11.5.0\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +297 ms] > Configure project :file_picker
+[        ] Evaluating project ':file_picker' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-10.3.8\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +107 ms] > Configure project :firebase_auth
+[        ] Evaluating project ':firebase_auth' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.1.4\android\build.gradle'.
+[        ] Using default execution profile
+[  +93 ms] > Configure project :firebase_core
+[        ] Evaluating project ':firebase_core' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.4.0\android\build.gradle'.
+[        ] Using default execution profile
+[ +187 ms] > Configure project :firebase_storage
+[        ] Evaluating project ':firebase_storage' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-13.0.6\android\build.gradle'.
+[   +1 ms] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +309 ms] > Configure project :floating
+[        ] Evaluating project ':floating' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\floating-6.0.0\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +185 ms] > Configure project :flutter_callkit_incoming
+[        ] Evaluating project ':flutter_callkit_incoming' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_callkit_incoming-2.5.8\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +108 ms] > Configure project :flutter_local_notifications
+[        ] Evaluating project ':flutter_local_notifications' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-19.5.0\android\build.gradle'.
+[        ] Using default execution profile
+[ +293 ms] > Configure project :flutter_logs_yoer
+[        ] Evaluating project ':flutter_logs_yoer' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_logs_yoer-2.2.1\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +106 ms] > Configure project :flutter_plugin_android_lifecycle
+[        ] Evaluating project ':flutter_plugin_android_lifecycle' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\android\build.gradle'.
+[        ] Using default execution profile
+[ +200 ms] > Configure project :flutter_ringtone_player
+[        ] Evaluating project ':flutter_ringtone_player' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ringtone_player-4.0.0+4\android\build.gradle'.
+[        ] Using default execution profile
+[ +199 ms] > Configure project :flutter_volume_controller
+[        ] Evaluating project ':flutter_volume_controller' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_volume_controller-1.3.4\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[  +94 ms] > Configure project :image_picker_android
+[        ] Evaluating project ':image_picker_android' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+12\android\build.gradle'.
+[        ] Using default execution profile
+[  +90 ms] > Configure project :just_audio
+[        ] Evaluating project ':just_audio' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.10.5\android\build.gradle'.
+[        ] Using default execution profile
+[ +109 ms] > Configure project :native_device_orientation
+[        ] Evaluating project ':native_device_orientation' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\native_device_orientation-2.1.0\android\build.gradle'.
+[        ] Using default execution profile
+[ +199 ms] > Configure project :package_info_plus
+[        ] Evaluating project ':package_info_plus' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.3.1\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[  +92 ms] > Configure project :path_provider_android
+[        ] Evaluating project ':path_provider_android' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.22\android\build.gradle'.
+[        ] Using default execution profile
+[  +92 ms] > Configure project :permission_handler_android
+[        ] Evaluating project ':permission_handler_android' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-13.0.1\android\build.gradle'.
+[        ] Using default execution profile
+[ +202 ms] > Configure project :proximity_sensor
+[        ] Evaluating project ':proximity_sensor' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\proximity_sensor-1.3.9\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +296 ms] > Configure project :screen_brightness_android
+[        ] Evaluating project ':screen_brightness_android' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\screen_brightness_android-0.1.0+2\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +199 ms] > Configure project :share_plus
+[        ] Evaluating project ':share_plus' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-12.0.1\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +310 ms] > Configure project :shared_preferences_android
+[        ] Evaluating project ':shared_preferences_android' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.18\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[  +91 ms] > Configure project :sqflite_android
+[        ] Evaluating project ':sqflite_android' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+2\android\build.gradle'.
+[        ] Using default execution profile
+[  +93 ms] > Configure project :vibration
+[        ] Evaluating project ':vibration' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-3.1.5\android\build.gradle'.
+[        ] Using default execution profile
+[ +201 ms] > Configure project :wakelock_plus
+[        ] Evaluating project ':wakelock_plus' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.3.3\android\build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[ +109 ms] > Configure project :zego_express_engine
+[        ] Evaluating project ':zego_express_engine' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_express_engine-3.23.0\android\build.gradle'.
+[        ] Using default execution profile
+[        ] [ZEGO][PLUGIN] Download native dependency
+[        ] [ZEGO][PLUGIN] Native version: 3.23.0.47729
+[        ] [ZEGO][PLUGIN] The specified version SDK already exists!
+[  +90 ms] > Configure project :zego_uikit
+[        ] Evaluating project ':zego_uikit' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit-2.28.41\android\build.gradle'.
+[        ] Using default execution profile
+[  +94 ms] > Configure project :zego_uikit_prebuilt_call
+[        ] Evaluating project ':zego_uikit_prebuilt_call' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_prebuilt_call-4.22.2\android\build.gradle'.
+[        ] Using default execution profile
+[ +109 ms] > Configure project :zego_uikit_signaling_plugin
+[        ] Evaluating project ':zego_uikit_signaling_plugin' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_uikit_signaling_plugin-2.8.20\android\build.gradle'.
+[        ] Using default execution profile
+[  +91 ms] > Configure project :zego_zim
+[        ] Evaluating project ':zego_zim' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zim-2.26.0\android\build.gradle'.
+[        ] Using default execution profile
+[ +108 ms] > Configure project :zego_zpns
+[        ] Evaluating project ':zego_zpns' using build file 'C:\Users\Anirudh\AppData\Local\Pub\Cache\hosted\pub.dev\zego_zpns-2.8.0\android\build.gradle'.
+[        ] Using default execution profile
+[        ] All projects evaluated.
+[  +91 ms] Task name matched 'assembleDebug'
+[        ] Selected primary task 'assembleDebug' from project :
+[        ] Adding -Xuse-inline-scopes-numbers Kotlin compiler flag for task :app:compileDebugKotlin
+[+2208 ms] [Incubating] Problems report is available at: file:///C:/Users/Anirudh/Desktop/onecall_doctor/build/reports/problems/problems-report.html
+flutter : [        ] 
+FAILURE: Build failed 
+with an exception.
+At line:1 char:1
++ flutter run --verbose > 
+build_log_v2.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: ([  
+          ] FAIL...h an   
+  exception.:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+[   +3 ms] * What went 
+wrong:
+[        ] Could not 
+determine the 
+dependencies of task ':flu
+tter_callkit_incoming:bund
+leLibCompileToJarDebug'.
+[        ] > Could not 
+create task ':flutter_call
+kit_incoming:compileDebugJ
+avaWithJavac'.
+[        ]    > Failed to 
+calculate the value of 
+task ':flutter_callkit_inc
+oming:compileDebugJavaWith
+Javac' property 
+'javaCompiler'.
+[  +85 ms]       > Cannot 
+find a Java installation 
+on your machine matching 
+this tasks requirements: 
+{languageVersion=17, 
+vendor=any vendor, impleme
+ntation=vendor-specific} 
+for WINDOWS on x86_64.
+[        ]          > No 
+locally installed 
+toolchains match and 
+toolchain download 
+repositories have not 
+been configured.
+[        ] * Try:
+[        ] > Learn more 
+about toolchain 
+auto-detection at https://
+docs.gradle.org/8.12/userg
+uide/toolchains.html#sec:a
+uto_detection.
+[        ] > Learn more 
+about toolchain 
+repositories at https://do
+cs.gradle.org/8.12/usergui
+de/toolchains.html#sub:dow
+nload_repositories.
+[        ] > Run with 
+--debug option to get 
+more log output.
+[        ] > Run with 
+--scan to get full 
+insights.
+[        ] > Get more 
+help at 
+https://help.gradle.org.
+[        ] * Exception is:
+[        ] org.gradle.api.
+internal.tasks.TaskDepende
+ncyResolveException: 
+Could not determine the 
+dependencies of task ':flu
+tter_callkit_incoming:bund
+leLibCompileToJarDebug'.
+[        ] 	at org.gradle.
+api.internal.tasks.Caching
+TaskDependencyResolveConte
+xt.getDependencies(Caching
+TaskDependencyResolveConte
+xt.java:70)
+[        ] 	at org.gradle.
+execution.plan.TaskDepende
+ncyResolver.resolveDepende
+nciesFor(TaskDependencyRes
+olver.java:49)
+[        ] 	at org.gradle.
+execution.plan.LocalTaskNo
+de.getDependencies(LocalTa
+skNode.java:148)
+[        ] 	at org.gradle.
+execution.plan.LocalTaskNo
+de.resolveDependencies(Loc
+alTaskNode.java:122)
+[        ] 	at org.gradle.
+execution.plan.DefaultExec
+utionPlan.discoverNodeRela
+tionships(DefaultExecution
+Plan.java:182)
+[        ] 	at org.gradle.
+execution.plan.DefaultExec
+utionPlan.doAddEntryNodes(
+DefaultExecutionPlan.java:
+154)
+[        ] 	at org.gradle.
+execution.plan.DefaultExec
+utionPlan.addEntryTasks(De
+faultExecutionPlan.java:12
+9)
+[        ] 	at org.gradle.
+execution.plan.DefaultExec
+utionPlan.addEntryTasks(De
+faultExecutionPlan.java:12
+1)
+[        ] 	at org.gradle.
+execution.TaskNameResolvin
+gBuildTaskScheduler.schedu
+leRequestedTasks(TaskNameR
+esolvingBuildTaskScheduler
+.java:61)
+[        ] 	at org.gradle.
+execution.DefaultTasksBuil
+dTaskScheduler.scheduleReq
+uestedTasks(DefaultTasksBu
+ildTaskScheduler.java:72)
+[        ] 	at org.gradle.
+initialization.DefaultTask
+ExecutionPreparer.lambda$s
+cheduleRequestedTasks$0(De
+faultTaskExecutionPreparer
+.java:48)
+[        ] 	at org.gradle.
+internal.Factories$1.creat
+e(Factories.java:31)
+[        ] 	at org.gradle.
+internal.work.DefaultWorke
+rLeaseService.withReplaced
+Locks(DefaultWorkerLeaseSe
+rvice.java:359)
+[        ] 	at org.gradle.
+api.internal.project.Defau
+ltProjectStateRegistry$Def
+aultBuildProjectRegistry.w
+ithMutableStateOfAllProjec
+ts(DefaultProjectStateRegi
+stry.java:238)
+[        ] 	at org.gradle.
+api.internal.project.Defau
+ltProjectStateRegistry$Def
+aultBuildProjectRegistry.w
+ithMutableStateOfAllProjec
+ts(DefaultProjectStateRegi
+stry.java:231)
+[        ] 	at org.gradle.
+initialization.DefaultTask
+ExecutionPreparer.schedule
+RequestedTasks(DefaultTask
+ExecutionPreparer.java:47)
+[        ] 	at org.gradle.
+initialization.VintageBuil
+dModelController.lambda$sc
+heduleRequestedTasks$0(Vin
+tageBuildModelController.j
+ava:76)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.lambda$inSt
+ate$1(StateTransitionContr
+oller.java:99)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.lambda$inSt
+ate$2(StateTransitionContr
+oller.java:114)
+[        ] 	at org.gradle.
+internal.work.DefaultSynch
+ronizer.withLock(DefaultSy
+nchronizer.java:46)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.inState(Sta
+teTransitionController.jav
+a:110)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.inState(Sta
+teTransitionController.jav
+a:98)
+[        ] 	at org.gradle.
+initialization.VintageBuil
+dModelController.scheduleR
+equestedTasks(VintageBuild
+ModelController.java:76)
+[        ] 	at org.gradle.
+internal.build.DefaultBuil
+dLifecycleController$Defau
+ltWorkGraphBuilder.addRequ
+estedTasks(DefaultBuildLif
+ecycleController.java:404)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeWorkPreparer.lamb
+da$scheduleRequestedTasks$
+0(DefaultBuildTreeWorkPrep
+arer.java:41)
+[        ] 	at org.gradle.
+internal.build.DefaultBuil
+dLifecycleController.lambd
+a$populateWorkGraph$7(Defa
+ultBuildLifecycleControlle
+r.java:189)
+[        ] 	at org.gradle.
+internal.build.DefaultBuil
+dWorkPreparer.populateWork
+Graph(DefaultBuildWorkPrep
+arer.java:42)
+[        ] 	at org.gradle.
+internal.build.BuildOperat
+ionFiringBuildWorkPreparer
+$PopulateWorkGraph.populat
+eTaskGraph(BuildOperationF
+iringBuildWorkPreparer.jav
+a:106)
+[        ] 	at org.gradle.
+internal.build.BuildOperat
+ionFiringBuildWorkPreparer
+$PopulateWorkGraph.run(Bui
+ldOperationFiringBuildWork
+Preparer.java:92)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$1.ex
+ecute(DefaultBuildOperatio
+nRunner.java:29)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$1.ex
+ecute(DefaultBuildOperatio
+nRunner.java:26)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:66)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:166)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.run(
+DefaultBuildOperationRunne
+r.java:47)
+[        ] 	at org.gradle.
+internal.build.BuildOperat
+ionFiringBuildWorkPreparer
+.populateWorkGraph(BuildOp
+erationFiringBuildWorkPrep
+arer.java:67)
+[        ] 	at org.gradle.
+internal.build.DefaultBuil
+dLifecycleController.lambd
+a$populateWorkGraph$8(Defa
+ultBuildLifecycleControlle
+r.java:189)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.lambda$inSt
+ate$1(StateTransitionContr
+oller.java:99)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.lambda$inSt
+ate$2(StateTransitionContr
+oller.java:114)
+[        ] 	at org.gradle.
+internal.work.DefaultSynch
+ronizer.withLock(DefaultSy
+nchronizer.java:46)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.inState(Sta
+teTransitionController.jav
+a:110)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.inState(Sta
+teTransitionController.jav
+a:98)
+[        ] 	at org.gradle.
+internal.build.DefaultBuil
+dLifecycleController.popul
+ateWorkGraph(DefaultBuildL
+ifecycleController.java:18
+9)
+[        ] 	at org.gradle.
+internal.build.DefaultBuil
+dWorkGraphController$Defau
+ltBuildWorkGraph.populateW
+orkGraph(DefaultBuildWorkG
+raphController.java:169)
+[        ] 	at org.gradle.
+composite.internal.Default
+BuildController.populateWo
+rkGraph(DefaultBuildContro
+ller.java:76)
+[        ] 	at org.gradle.
+composite.internal.Default
+IncludedBuildTaskGraph$Def
+aultBuildTreeWorkGraphBuil
+der.withWorkGraph(DefaultI
+ncludedBuildTaskGraph.java
+:153)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeWorkPreparer.lamb
+da$scheduleRequestedTasks$
+1(DefaultBuildTreeWorkPrep
+arer.java:41)
+[        ] 	at org.gradle.
+composite.internal.Default
+IncludedBuildTaskGraph$Def
+aultBuildTreeWorkGraph$1.r
+un(DefaultIncludedBuildTas
+kGraph.java:209)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$1.ex
+ecute(DefaultBuildOperatio
+nRunner.java:29)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$1.ex
+ecute(DefaultBuildOperatio
+nRunner.java:26)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:66)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:166)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.run(
+DefaultBuildOperationRunne
+r.java:47)
+[        ] 	at org.gradle.
+composite.internal.Default
+IncludedBuildTaskGraph$Def
+aultBuildTreeWorkGraph.sch
+eduleWork(DefaultIncludedB
+uildTaskGraph.java:204)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeWorkPreparer.sche
+duleRequestedTasks(Default
+BuildTreeWorkPreparer.java
+:37)
+[        ] 	at org.gradle.
+internal.cc.impl.VintageBu
+ildTreeWorkController$sche
+duleAndRunRequestedTasks$1
+.apply(VintageBuildTreeWor
+kController.kt:36)
+[        ] 	at org.gradle.
+internal.cc.impl.VintageBu
+ildTreeWorkController$sche
+duleAndRunRequestedTasks$1
+.apply(VintageBuildTreeWor
+kController.kt:35)
+[        ] 	at org.gradle.
+composite.internal.Default
+IncludedBuildTaskGraph.wit
+hNewWorkGraph(DefaultInclu
+dedBuildTaskGraph.java:112
+)
+[        ] 	at org.gradle.
+internal.cc.impl.VintageBu
+ildTreeWorkController.sche
+duleAndRunRequestedTasks(V
+intageBuildTreeWorkControl
+ler.kt:35)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeLifecycleControll
+er.lambda$scheduleAndRunTa
+sks$1(DefaultBuildTreeLife
+cycleController.java:77)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeLifecycleControll
+er.lambda$runBuild$4(Defau
+ltBuildTreeLifecycleContro
+ller.java:120)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.lambda$tran
+sition$6(StateTransitionCo
+ntroller.java:169)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.doTransitio
+n(StateTransitionControlle
+r.java:266)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.lambda$tran
+sition$7(StateTransitionCo
+ntroller.java:169)
+[   +7 ms] 	at org.gradle.
+internal.work.DefaultSynch
+ronizer.withLock(DefaultSy
+nchronizer.java:46)
+[        ] 	at org.gradle.
+internal.model.StateTransi
+tionController.transition(
+StateTransitionController.
+java:169)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeLifecycleControll
+er.runBuild(DefaultBuildTr
+eeLifecycleController.java
+:117)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeLifecycleControll
+er.scheduleAndRunTasks(Def
+aultBuildTreeLifecycleCont
+roller.java:77)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeLifecycleControll
+er.scheduleAndRunTasks(Def
+aultBuildTreeLifecycleCont
+roller.java:72)
+[        ] 	at org.gradle.
+tooling.internal.provider.
+ExecuteBuildActionRunner.r
+un(ExecuteBuildActionRunne
+r.java:31)
+[        ] 	at org.gradle.
+launcher.exec.ChainingBuil
+dActionRunner.run(Chaining
+BuildActionRunner.java:35)
+[        ] 	at org.gradle.
+internal.buildtree.Problem
+ReportingBuildActionRunner
+.run(ProblemReportingBuild
+ActionRunner.java:49)
+[        ] 	at org.gradle.
+launcher.exec.BuildOutcome
+ReportingBuildActionRunner
+.run(BuildOutcomeReporting
+BuildActionRunner.java:71)
+[        ] 	at org.gradle.
+tooling.internal.provider.
+FileSystemWatchingBuildAct
+ionRunner.run(FileSystemWa
+tchingBuildActionRunner.ja
+va:135)
+[        ] 	at org.gradle.
+launcher.exec.BuildComplet
+ionNotifyingBuildActionRun
+ner.run(BuildCompletionNot
+ifyingBuildActionRunner.ja
+va:41)
+[        ] 	at org.gradle.
+launcher.exec.RootBuildLif
+ecycleBuildActionExecutor.
+lambda$execute$0(RootBuild
+LifecycleBuildActionExecut
+or.java:54)
+[        ] 	at org.gradle.
+composite.internal.Default
+RootBuildState.run(Default
+RootBuildState.java:130)
+[        ] 	at org.gradle.
+launcher.exec.RootBuildLif
+ecycleBuildActionExecutor.
+execute(RootBuildLifecycle
+BuildActionExecutor.java:5
+4)
+[        ] 	at org.gradle.
+internal.buildtree.InitDep
+recationLoggingActionExecu
+tor.execute(InitDeprecatio
+nLoggingActionExecutor.jav
+a:62)
+[        ] 	at org.gradle.
+internal.buildtree.InitPro
+blems.execute(InitProblems
+.java:36)
+[        ] 	at org.gradle.
+internal.buildtree.Default
+BuildTreeContext.execute(D
+efaultBuildTreeContext.jav
+a:40)
+[        ] 	at org.gradle.
+launcher.exec.BuildTreeLif
+ecycleBuildActionExecutor.
+lambda$execute$0(BuildTree
+LifecycleBuildActionExecut
+or.java:71)
+[        ] 	at org.gradle.
+internal.buildtree.BuildTr
+eeState.run(BuildTreeState
+.java:60)
+[        ] 	at org.gradle.
+launcher.exec.BuildTreeLif
+ecycleBuildActionExecutor.
+execute(BuildTreeLifecycle
+BuildActionExecutor.java:7
+1)
+[        ] 	at org.gradle.
+launcher.exec.RunAsBuildOp
+erationBuildActionExecutor
+$2.call(RunAsBuildOperatio
+nBuildActionExecutor.java:
+67)
+[        ] 	at org.gradle.
+launcher.exec.RunAsBuildOp
+erationBuildActionExecutor
+$2.call(RunAsBuildOperatio
+nBuildActionExecutor.java:
+63)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$Call
+ableBuildOperationWorker.e
+xecute(DefaultBuildOperati
+onRunner.java:209)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$Call
+ableBuildOperationWorker.e
+xecute(DefaultBuildOperati
+onRunner.java:204)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:66)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:166)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.call
+(DefaultBuildOperationRunn
+er.java:53)
+[        ] 	at org.gradle.
+launcher.exec.RunAsBuildOp
+erationBuildActionExecutor
+.execute(RunAsBuildOperati
+onBuildActionExecutor.java
+:63)
+[        ] 	at org.gradle.
+launcher.exec.RunAsWorkerT
+hreadBuildActionExecutor.l
+ambda$execute$0(RunAsWorke
+rThreadBuildActionExecutor
+.java:36)
+[        ] 	at org.gradle.
+internal.work.DefaultWorke
+rLeaseService.withLocks(De
+faultWorkerLeaseService.ja
+va:263)
+[        ] 	at org.gradle.
+internal.work.DefaultWorke
+rLeaseService.runAsWorkerT
+hread(DefaultWorkerLeaseSe
+rvice.java:127)
+[        ] 	at org.gradle.
+launcher.exec.RunAsWorkerT
+hreadBuildActionExecutor.e
+xecute(RunAsWorkerThreadBu
+ildActionExecutor.java:36)
+[        ] 	at org.gradle.
+tooling.internal.provider.
+continuous.ContinuousBuild
+ActionExecutor.execute(Con
+tinuousBuildActionExecutor
+.java:110)
+[        ] 	at org.gradle.
+tooling.internal.provider.
+SubscribableBuildActionExe
+cutor.execute(Subscribable
+BuildActionExecutor.java:6
+4)
+[        ] 	at org.gradle.
+internal.session.DefaultBu
+ildSessionContext.execute(
+DefaultBuildSessionContext
+.java:46)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.BuildSessionLifecycl
+eBuildActionExecutor$Actio
+nImpl.apply(BuildSessionLi
+fecycleBuildActionExecutor
+.java:92)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.BuildSessionLifecycl
+eBuildActionExecutor$Actio
+nImpl.apply(BuildSessionLi
+fecycleBuildActionExecutor
+.java:80)
+[        ] 	at org.gradle.
+internal.session.BuildSess
+ionState.run(BuildSessionS
+tate.java:71)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.BuildSessionLifecycl
+eBuildActionExecutor.execu
+te(BuildSessionLifecycleBu
+ildActionExecutor.java:62)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.BuildSessionLifecycl
+eBuildActionExecutor.execu
+te(BuildSessionLifecycleBu
+ildActionExecutor.java:41)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.StartParamsValidatin
+gActionExecutor.execute(St
+artParamsValidatingActionE
+xecutor.java:64)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.StartParamsValidatin
+gActionExecutor.execute(St
+artParamsValidatingActionE
+xecutor.java:32)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.SessionFailureReport
+ingActionExecutor.execute(
+SessionFailureReportingAct
+ionExecutor.java:51)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.SessionFailureReport
+ingActionExecutor.execute(
+SessionFailureReportingAct
+ionExecutor.java:39)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.SetupLoggingActionEx
+ecutor.execute(SetupLoggin
+gActionExecutor.java:47)
+[        ] 	at org.gradle.
+internal.buildprocess.exec
+ution.SetupLoggingActionEx
+ecutor.execute(SetupLoggin
+gActionExecutor.java:31)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.ExecuteBuild.doBuild(Exe
+cuteBuild.java:70)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.BuildCommandOnly.execute
+(BuildCommandOnly.java:37)
+[        ] 	at org.gradle.
+launcher.daemon.server.api
+.DaemonCommandExecution.pr
+oceed(DaemonCommandExecuti
+on.java:104)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.WatchForDisconnection.ex
+ecute(WatchForDisconnectio
+n.java:39)
+[        ] 	at org.gradle.
+launcher.daemon.server.api
+.DaemonCommandExecution.pr
+oceed(DaemonCommandExecuti
+on.java:104)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.ResetDeprecationLogger.e
+xecute(ResetDeprecationLog
+ger.java:29)
+[        ] 	at org.gradle.
+launcher.daemon.server.api
+.DaemonCommandExecution.pr
+oceed(DaemonCommandExecuti
+on.java:104)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.RequestStopIfSingleUsedD
+aemon.execute(RequestStopI
+fSingleUsedDaemon.java:35)
+[        ] 	at org.gradle.
+launcher.daemon.server.api
+.DaemonCommandExecution.pr
+oceed(DaemonCommandExecuti
+on.java:104)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.ForwardClientInput.lambd
+a$execute$0(ForwardClientI
+nput.java:40)
+[        ] 	at org.gradle.
+internal.daemon.clientinpu
+t.ClientInputForwarder.for
+wardInput(ClientInputForwa
+rder.java:80)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.ForwardClientInput.execu
+te(ForwardClientInput.java
+:37)
+[        ] 	at org.gradle.
+launcher.daemon.server.api
+.DaemonCommandExecution.pr
+oceed(DaemonCommandExecuti
+on.java:104)
+[   +3 ms] 	at org.gradle.
+launcher.daemon.server.exe
+c.LogAndCheckHealth.execut
+e(LogAndCheckHealth.java:6
+4)
+[        ] 	at org.gradle.
+launcher.daemon.server.api
+.DaemonCommandExecution.pr
+oceed(DaemonCommandExecuti
+on.java:104)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.LogToClient.doBuild(LogT
+oClient.java:63)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.BuildCommandOnly.execute
+(BuildCommandOnly.java:37)
+[        ] 	at org.gradle.
+launcher.daemon.server.api
+.DaemonCommandExecution.pr
+oceed(DaemonCommandExecuti
+on.java:104)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.EstablishBuildEnvironmen
+t.doBuild(EstablishBuildEn
+vironment.java:84)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.BuildCommandOnly.execute
+(BuildCommandOnly.java:37)
+[        ] 	at org.gradle.
+launcher.daemon.server.api
+.DaemonCommandExecution.pr
+oceed(DaemonCommandExecuti
+on.java:104)
+[        ] 	at org.gradle.
+launcher.daemon.server.exe
+c.StartBuildOrRespondWithB
+usy$1.run(StartBuildOrResp
+ondWithBusy.java:52)
+[        ] 	at org.gradle.
+launcher.daemon.server.Dae
+monStateCoordinator.lambda
+$runCommand$0(DaemonStateC
+oordinator.java:321)
+[        ] 	at org.gradle.
+internal.concurrent.Execut
+orPolicy$CatchAndRecordFai
+lures.onExecute(ExecutorPo
+licy.java:64)
+[        ] 	at org.gradle.
+internal.concurrent.Abstra
+ctManagedExecutor$1.run(Ab
+stractManagedExecutor.java
+:48)
+[        ] 	at java.base/j
+ava.util.concurrent.Thread
+PoolExecutor.runWorker(Unk
+nown Source)
+[        ] 	at java.base/j
+ava.util.concurrent.Thread
+PoolExecutor$Worker.run(Un
+known Source)
+[        ] 	at java.base/j
+ava.lang.Thread.run(Unknow
+n Source)
+[        ] Caused by: org.
+gradle.api.internal.tasks.
+DefaultTaskContainer$TaskC
+reationException: Could 
+not create task ':flutter_
+callkit_incoming:compileDe
+bugJavaWithJavac'.
+[        ] 	at org.gradle.
+api.internal.tasks.Default
+TaskContainer.taskCreation
+Exception(DefaultTaskConta
+iner.java:729)
+[        ] 	at org.gradle.
+api.internal.tasks.Default
+TaskContainer.access$600(D
+efaultTaskContainer.java:7
+8)
+[        ] 	at org.gradle.
+api.internal.tasks.Default
+TaskContainer$TaskCreating
+Provider.domainObjectCreat
+ionException(DefaultTaskCo
+ntainer.java:721)
+[        ] 	at org.gradle.
+api.internal.DefaultNamedD
+omainObjectCollection$Abst
+ractDomainObjectCreatingPr
+ovider.tryCreate(DefaultNa
+medDomainObjectCollection.
+java:1014)
+[        ] 	at org.gradle.
+api.internal.tasks.Default
+TaskContainer$TaskCreating
+Provider.access$1401(Defau
+ltTaskContainer.java:668)
+[        ] 	at org.gradle.
+api.internal.tasks.Default
+TaskContainer$TaskCreating
+Provider$1.run(DefaultTask
+Container.java:694)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$1.ex
+ecute(DefaultBuildOperatio
+nRunner.java:29)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$1.ex
+ecute(DefaultBuildOperatio
+nRunner.java:26)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:66)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:166)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.run(
+DefaultBuildOperationRunne
+r.java:47)
+[        ] 	at org.gradle.
+api.internal.tasks.Default
+TaskContainer$TaskCreating
+Provider.tryCreate(Default
+TaskContainer.java:690)
+[        ] 	at org.gradle.
+api.internal.DefaultNamedD
+omainObjectCollection$Abst
+ractDomainObjectCreatingPr
+ovider.calculateOwnValue(D
+efaultNamedDomainObjectCol
+lection.java:988)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractMinimalProvider.calcul
+ateValue(AbstractMinimalPr
+ovider.java:117)
+[        ] 	at org.gradle.
+api.internal.provider.Flat
+MapProvider.backingProvide
+r(FlatMapProvider.java:73)
+[        ] 	at org.gradle.
+api.internal.provider.Flat
+MapProvider.getProducer(Fl
+atMapProvider.java:83)
+[        ] 	at org.gradle.
+api.internal.provider.Tran
+sformBackedProvider.getPro
+ducer(TransformBackedProvi
+der.java:60)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.getProducer(A
+bstractProperty.java:219)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.getProducer(A
+bstractProperty.java:219)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.getProducer(A
+bstractProperty.java:219)
+[        ] 	at org.gradle.
+api.internal.file.collecti
+ons.ProviderBackedFileColl
+ection.visitDependencies(P
+roviderBackedFileCollectio
+n.java:51)
+[        ] 	at org.gradle.
+api.internal.tasks.Caching
+TaskDependencyResolveConte
+xt$TaskGraphImpl.getNodeVa
+lues(CachingTaskDependency
+ResolveContext.java:108)
+[        ] 	at org.gradle.
+internal.graph.CachingDire
+ctedGraphWalker$GraphWithE
+mptyEdges.getNodeValues(Ca
+chingDirectedGraphWalker.j
+ava:213)
+[        ] 	at org.gradle.
+internal.graph.CachingDire
+ctedGraphWalker.doSearch(C
+achingDirectedGraphWalker.
+java:121)
+[        ] 	at org.gradle.
+internal.graph.CachingDire
+ctedGraphWalker.findValues
+(CachingDirectedGraphWalke
+r.java:73)
+[        ] 	at org.gradle.
+api.internal.tasks.Caching
+TaskDependencyResolveConte
+xt.getDependencies(Caching
+TaskDependencyResolveConte
+xt.java:67)
+[        ] 	... 142 more
+[        ] Caused by: org.
+gradle.api.internal.provid
+er.AbstractProperty$Proper
+tyQueryException: Failed 
+to calculate the value of 
+task ':flutter_callkit_inc
+oming:compileDebugJavaWith
+Javac' property 
+'javaCompiler'.
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.finalizeNow(A
+bstractProperty.java:296)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.lambda$before
+Read$0(AbstractProperty.ja
+va:288)
+[        ] 	at org.gradle.
+api.internal.provider.Valu
+eState.finalizeOnReadIfNee
+ded(ValueState.java:140)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.beforeRead(Ab
+stractProperty.java:288)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.beforeRead(Ab
+stractProperty.java:280)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.calculateOwnV
+alue(AbstractProperty.java
+:163)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractMinimalProvider.getOrN
+ull(AbstractMinimalProvide
+r.java:107)
+[        ] 	at com.android
+.build.gradle.tasks.JavaCo
+mpileUtils.configureProper
+ties(JavaCompileUtils.kt:9
+2)
+[        ] 	at com.android
+.build.gradle.tasks.JavaCo
+mpileCreationAction.config
+ure(JavaCompile.kt:125)
+[        ] 	at com.android
+.build.gradle.tasks.JavaCo
+mpileCreationAction.config
+ure(JavaCompile.kt:57)
+[        ] 	at com.android
+.build.gradle.internal.tas
+ks.factory.TaskConfigurati
+onActions.execute(TaskFact
+oryUtils.kt:94)
+[        ] 	at com.android
+.build.gradle.internal.tas
+ks.factory.TaskConfigurati
+onActions.execute(TaskFact
+oryUtils.kt:80)
+[        ] 	at org.gradle.
+api.internal.DefaultMutati
+onGuard$1.execute(DefaultM
+utationGuard.java:66)
+[        ] 	at org.gradle.
+api.internal.DefaultMutati
+onGuard$1.execute(DefaultM
+utationGuard.java:66)
+[        ] 	at org.gradle.
+internal.code.DefaultUserC
+odeApplicationContext$Curr
+entApplication$1.execute(D
+efaultUserCodeApplicationC
+ontext.java:124)
+[        ] 	at org.gradle.
+api.internal.DefaultCollec
+tionCallbackActionDecorato
+r$BuildOperationEmittingAc
+tion$1.run(DefaultCollecti
+onCallbackActionDecorator.
+java:110)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$1.ex
+ecute(DefaultBuildOperatio
+nRunner.java:29)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$1.ex
+ecute(DefaultBuildOperatio
+nRunner.java:26)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:66)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner$2.ex
+ecute(DefaultBuildOperatio
+nRunner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:166)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.exec
+ute(DefaultBuildOperationR
+unner.java:59)
+[        ] 	at org.gradle.
+internal.operations.Defaul
+tBuildOperationRunner.run(
+DefaultBuildOperationRunne
+r.java:47)
+[        ] 	at org.gradle.
+api.internal.DefaultCollec
+tionCallbackActionDecorato
+r$BuildOperationEmittingAc
+tion.execute(DefaultCollec
+tionCallbackActionDecorato
+r.java:107)
+[        ] 	at org.gradle.
+internal.ImmutableActionSe
+t$SetWithManyActions.execu
+te(ImmutableActionSet.java
+:329)
+[        ] 	at org.gradle.
+api.internal.DefaultDomain
+ObjectCollection.doAdd(Def
+aultDomainObjectCollection
+.java:280)
+[        ] 	at org.gradle.
+api.internal.DefaultNamedD
+omainObjectCollection.doAd
+d(DefaultNamedDomainObject
+Collection.java:125)
+[        ] 	at org.gradle.
+api.internal.DefaultNamedD
+omainObjectCollection$Abst
+ractDomainObjectCreatingPr
+ovider.tryCreate(DefaultNa
+medDomainObjectCollection.
+java:1008)
+[        ] 	... 166 more
+[        ] Caused by: org.
+gradle.jvm.toolchain.inter
+nal.NoToolchainAvailableEx
+ception: Cannot find a 
+Java installation on your 
+machine matching this 
+tasks requirements: 
+{languageVersion=17, 
+vendor=any vendor, impleme
+ntation=vendor-specific} 
+for WINDOWS on x86_64.
+[        ] 	at org.gradle.
+jvm.toolchain.internal.Jav
+aToolchainQueryService.dow
+nloadToolchain(JavaToolcha
+inQueryService.java:227)
+[        ] 	at org.gradle.
+jvm.toolchain.internal.Jav
+aToolchainQueryService.lam
+bda$query$2(JavaToolchainQ
+ueryService.java:192)
+[        ] 	at java.base/j
+ava.util.Optional.orElseGe
+t(Unknown Source)
+[        ] 	at org.gradle.
+jvm.toolchain.internal.Jav
+aToolchainQueryService.que
+ry(JavaToolchainQueryServi
+ce.java:192)
+[        ] 	at org.gradle.
+jvm.toolchain.internal.Jav
+aToolchainQueryService.lam
+bda$resolveToolchain$1(Jav
+aToolchainQueryService.jav
+a:170)
+[        ] 	at java.base/j
+ava.util.concurrent.Concur
+rentHashMap.computeIfAbsen
+t(Unknown Source)
+[        ] 	at org.gradle.
+jvm.toolchain.internal.Jav
+aToolchainQueryService.res
+olveToolchain(JavaToolchai
+nQueryService.java:168)
+[   +1 ms] 	at org.gradle.
+jvm.toolchain.internal.Jav
+aToolchainQueryService.lam
+bda$findMatchingToolchain$
+0(JavaToolchainQueryServic
+e.java:146)
+[        ] 	at org.gradle.
+api.internal.provider.Defa
+ultProvider.calculateOwnVa
+lue(DefaultProvider.java:7
+3)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractMinimalProvider.calcul
+ateValue(AbstractMinimalPr
+ovider.java:117)
+[        ] 	at org.gradle.
+api.internal.provider.With
+SideEffectProvider.calcula
+teOwnValue(WithSideEffectP
+rovider.java:54)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractMinimalProvider.calcul
+ateValue(AbstractMinimalPr
+ovider.java:117)
+[        ] 	at org.gradle.
+api.internal.provider.Tran
+sformBackedProvider.calcul
+ateOwnValue(TransformBacke
+dProvider.java:82)
+[   +1 ms] 	at org.gradle.
+api.internal.provider.Abst
+ractMinimalProvider.calcul
+ateValue(AbstractMinimalPr
+ovider.java:117)
+[        ] 	at org.gradle.
+api.internal.provider.Tran
+sformBackedProvider.calcul
+ateOwnValue(TransformBacke
+dProvider.java:82)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractMinimalProvider.calcul
+ateValue(AbstractMinimalPr
+ovider.java:117)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractMinimalProvider.withFi
+nalValue(AbstractMinimalPr
+ovider.java:182)
+[        ] 	at org.gradle.
+api.internal.provider.Defa
+ultProperty.finalValue(Def
+aultProperty.java:163)
+[        ] 	at org.gradle.
+api.internal.provider.Defa
+ultProperty.finalValue(Def
+aultProperty.java:34)
+[        ] 	at org.gradle.
+api.internal.provider.Abst
+ractProperty.finalizeNow(A
+bstractProperty.java:293)
+[        ] 	... 193 more
+[        ] Caused by: org.
+gradle.jvm.toolchain.inter
+nal.ToolchainDownloadFaile
+dException: No locally 
+installed toolchains 
+match and toolchain 
+download repositories 
+have not been configured.
+[        ] 	at org.gradle.
+jvm.toolchain.internal.ins
+tall.DefaultJavaToolchainP
+rovisioningService.tryInst
+all(DefaultJavaToolchainPr
+ovisioningService.java:118
+)
+[        ] 	at org.gradle.
+jvm.toolchain.internal.Jav
+aToolchainQueryService.dow
+nloadToolchain(JavaToolcha
+inQueryService.java:225)
+[        ] 	... 212 more
+[        ] BUILD FAILED 
+in 11s
+[        ] Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+[        ] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[        ] For more on this, please refer to https://docs.gradle.org/8.12/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+[        ] 4 actionable tasks: 4 up-to-date
+[  +25 ms] Watched directory hierarchies: [C:\flutter\packages\flutter_tools\gradle]
+[ +251 ms] Running Gradle task 'assembleDebug'... (completed in 12.0s)
+[+11939 ms] Error: Gradle 
+task assembleDebug failed 
+with exit code 1
+[   +4 ms] "flutter run" took 28,286ms.
+[ +242 ms] 
+           #0      
+throwToolExit (package:flu
+tter_tools/src/base/common
+.dart:34:3)
+           #1      
+RunCommand.runCommand (pac
+kage:flutter_tools/src/com
+mands/run.dart:872:9)
+           <asynchronous 
+suspension>
+           #2      Flutter
+Command.run.<anonymous 
+closure> (package:flutter_
+tools/src/runner/flutter_c
+ommand.dart:1581:27)
+           <asynchronous 
+suspension>
+           #3      
+AppContext.run.<anonymous 
+closure> (package:flutter_
+tools/src/base/context.dar
+t:154:19)
+           <asynchronous 
+suspension>
+           #4      
+CommandRunner.runCommand (
+package:args/command_runne
+r.dart:212:13)
+           <asynchronous 
+suspension>
+           #5      Flutter
+CommandRunner.runCommand.<
+anonymous closure> (packag
+e:flutter_tools/src/runner
+/flutter_command_runner.da
+rt:503:9)
+           <asynchronous 
+suspension>
+           #6      
+AppContext.run.<anonymous 
+closure> (package:flutter_
+tools/src/base/context.dar
+t:154:19)
+           <asynchronous 
+suspension>
+           #7      Flutter
+CommandRunner.runCommand (
+package:flutter_tools/src/
+runner/flutter_command_run
+ner.dart:438:5)
+           <asynchronous 
+suspension>
+           #8      
+run.<anonymous 
+closure>.<anonymous 
+closure> (package:flutter_
+tools/runner.dart:98:11)
+           <asynchronous 
+suspension>
+           #9      
+AppContext.run.<anonymous 
+closure> (package:flutter_
+tools/src/base/context.dar
+t:154:19)
+           <asynchronous 
+suspension>
+           #10     main (p
+ackage:flutter_tools/execu
+table.dart:101:3)
+           <asynchronous 
+suspension>
+
+
+[        ] Running 3 shutdown hooks
+[  +33 ms] Shutdown hooks complete
+[ +149 ms] exiting with code 1
